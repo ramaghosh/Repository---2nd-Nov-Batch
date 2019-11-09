@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Entities>
+  <Entity Name="SmartRec.atmx">
+    <Properties>
+      <Property Name="LastRunTime">09/15/2019 11:33:24</Property>
+      <Property Name="RunDuration">00:00:10</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="ScreenRec.atmx">
+    <Properties>
+      <Property Name="LastRunTime">09/15/2019 11:34:20</Property>
+      <Property Name="RunDuration">00:00:13</Property>
+      <Property Name="Status">Failed</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="ManageWindowControl.atmx">
+    <Properties>
+      <Property Name="LastRunTime">11/09/2019 22:28:53</Property>
+      <Property Name="RunDuration">00:00:01</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+</Entities>

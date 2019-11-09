@@ -1,0 +1,2 @@
+vFirstConfigFile=HELLO_WORLD
+lFirstList=John,3,Rama
